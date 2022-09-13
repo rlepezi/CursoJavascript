@@ -1,0 +1,19 @@
+/*Sombra*/
+.navbar {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-family: 'Comic Sans',cursive,sans-serif;
+    font-weight: 700;
+}
+
+body {
+    font-family: 'Nunito Sans',sans-serif;
+}
+
+.card {
+    /* 1 rem a 16px   */
+    width: 18rem;
+}
